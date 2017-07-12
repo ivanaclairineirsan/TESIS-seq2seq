@@ -1,0 +1,10 @@
+@relation news
+
+@attribute Document string
+@attribute class {yes, no}
+
+@data
+
+"the game of	life is	a everlasting learning", yes
+"the unexamined life is not worth living", no
+"never stop learning", yes

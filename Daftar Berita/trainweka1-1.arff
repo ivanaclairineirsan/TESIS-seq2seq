@@ -1,0 +1,14 @@
+@relation news
+
+@attribute class {0, 1}
+@attribute banyak numeric
+@attribute anak numeric
+@attribute orang numeric
+@attribute tua numeric
+@attribute belum numeric
+
+@data
+
+1, 3.4, 2.5
+0, 1.4, 2.3
+1, 2.1, 8.9, 2.3

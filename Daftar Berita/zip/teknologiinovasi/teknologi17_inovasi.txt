@@ -1,0 +1,13 @@
+TEMPO.CO, Jakarta - Aplikasi bencana karya tim mahasiswa Universitas Gadjah Mada (UGM), Yogyakarta, sukses menyabet penghargaan Global Winner dalam kompetisi aplikasi yang diadakan Bank Dunia, "Code For Resilience" di London, Inggris, pada 30 Juni 2014. Aplikasi bernama Quick Disaster ini meraih juara setelah pada seleksi awal terpilih ke dalam sepuluh besar.
+
+Penyerahan penghargaan dihadiri ratusan kalangan profesional. Di antaranya, Wali Kota London, pejabat dari Bank Dunia, serta perwakilan Google, Microsoft, Mozilla, Net Hope, dan sejumlah perusahaan teknologi lainnya.
+
+Pemimpin tim, Daniel Oscar Baskoro, menyatakan terpilihnya Quick Disaster menjadi juara Global Winner merupakan hal yang sangat luar biasa dan menggembirakan. Capaian ini membuktikan bahwa proses riset yang mereka lakukan di kampus ternyata dapat membuahkan hasil.
+
+"Penghargaan ini menunjukkan kalau karya anak bangsa mampu bersaing di tingkat dunia," katanya kepada Tempo lewat surat elektronik, Selasa, 1 Juli 2014. Oscar dan timnya saat ini masih berada di London sampai pertengahan Juli.
+
+Oscar mengatakan peserta kompetisi aplikasi berasal dari seluruh negara di dunia. Kompetisi dua tahunan ini dinilai oleh dewan juri yang terdiri dari sembilan orang yang merupakan kalangan profesional dari berbagai bidang ilmu pengetahuan. (Baca juga: ITB Gelar Electrical Engineering Days 2014)
+
+Quick Disaster dikembangkan oleh empat mahasiswa program studi ilmu komputer dan satu mahasiswa program studi geofisika. Mereka masing-masing Daniel Oscar Baskoro (manajer proyek), Zamahsyari (pemrogram), Bahrunnur (pemrogram), Sabrina Woro Anggraini (copy writer), dan Maulana Rizki Aditama (analis data). Aplikasi ini sebelumnya mendapat trofi pada acara penghargaan Understanding Risk Forum di ExCel, London.
+
+Oscar mengatakan Quick Disaster merupakan aplikasi untuk mengantisipasi bencana alam yang dikembangkan pada wearable devices Google Glass dan kini sudah pada tahap pengembangan versi 2.0. Dengan aplikasi ini, para pengguna Google Glass akan mendapatkan tiga bagian informasi penting tentang bencana, yakni sebelum bencana, menampilkan informasi riwayat bencana suatu daerah; saat bencana, menampilkan informasi solusi ketika terjadi bencana; dan pasca-bencana, rehabilitasi dengan fitur integrasi foto pengguna pada daerah bencana dengan media sosial.

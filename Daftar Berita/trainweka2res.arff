@@ -1,0 +1,22 @@
+@relation 'news-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-T-I-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"-weka.filters.unsupervised.attribute.StringToWordVector-R-W1000-prune-rate-1.0-I-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"-weka.filters.unsupervised.attribute.StringToWordVector-R-W1000-prune-rate-1.0-I-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"'
+
+@attribute class {yes,no}
+@attribute a numeric
+@attribute everlasting numeric
+@attribute game numeric
+@attribute is numeric
+@attribute learning numeric
+@attribute life numeric
+@attribute never numeric
+@attribute of numeric
+@attribute stop numeric
+@attribute the numeric
+@attribute living numeric
+@attribute not numeric
+@attribute unexamined numeric
+@attribute worth numeric
+
+@data
+{1 0.7615,2 0.7615,3 0.7615,4 0.281047,5 0.281047,6 0.281047,8 0.7615,10 0.281047}
+{0 no,4 0.281047,6 0.281047,10 0.281047,11 0.7615,12 0.7615,13 0.7615,14 0.7615}
+{5 0.281047,7 0.7615,9 0.7615}

@@ -1,0 +1,11 @@
+Empat remaja Afrika telah memukau pengunjung acara Maker Faire Africa  (http://makerfaireafrica.com) dengan mendemokan generator listrik yang dijalankan dengan tenaga listrik bersumber dari air kencing atau urin. Acara MakerFaire sendiri merupakan acara yang menghadirkan inovasi, penemuan dan inisiatif untuk menyelesaikan tantangan dan problem yang ada di masyarakat.
+Dengan hanya menggunakan air kencing yang notabene adalah “sumber daya yang dihasilkan setiap orang” , gadis-gadis remaja ini mampu mengembangkan sebuah generator yang menghasilkan enam jam daya listrik dari satu liter urin.
+
+Nama-nama para remaja inovatif itu adalah Duro-Aina Adebola, Akindele Abiola, Faleke Oluwatoyin ketiganya masih berumur 14 tahun dan  Bello Eniola yang berumur 15 tahun. Para remaja ini masih berumur 14 dan 15 tahun dan sungguh menjadi inspirasi para remaja di dunia untuk mengembangkan sesuatu yang berguna bagi semua orang.
+Berikut ini penjelasan proses cara kerja menghasilkan listrik dari air seni/urin:
+
+Air urin/kencing dimasukan dalam electrolytic cell, yang mengekstrak urea menjadi nitrogen, water, dan hidrogen.
+Lalu hydrogen mengalir ke water filter untuk pemurnian/purification, yang kemudian didorong ke silinder gas
+Lalu silinder gas mendorong hidrogen ke silinder cairan borax, yang berfungsi untuk menghilangkan kelembaban/moisture dari  dari gas hidrogen
+Gas hidrogen yang telah dimurnikan didorong ke generator.
+1 Liter urin bisa menghasilkan kurang lebih 6 jam listrik

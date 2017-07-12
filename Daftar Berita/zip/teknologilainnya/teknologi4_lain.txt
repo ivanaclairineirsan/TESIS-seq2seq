@@ -1,0 +1,7 @@
+CUPERTINO – FBI dilaporkan membayar upah pihak yang membantunya, namun pihak itu ternyata bukan perusahaan Israel Cellebrite, yang selama ini diisukan membantunya.
+
+Menurut laporan The Washington, yang dilansir Apple Insider, Rabu (13/4/2016), sekelompok hacker yang diketahui namanya telah dibayar sekali sebagai imbalan untuk meretas iPhone, yang kemudian digunakan untuk mengakses perangkat iPhone 5c milik tersangka teroris Syed Rizwan Farook.
+
+Selain itu, sumber mengatakan, lembaga itu memanfaatkan cacat software untuk membuat solusi hardware yang efektif melompati passcode iOS. Adapun identitas kelompok bayangan keamanan itu setidaknya satu individu, yang bisa dianggap sebagai “gray hat”atau peneliti yang menjual temuan kelemahan software ke pemerintah atau perusahaan.
+
+Para peneliti biasanya dikelompokkan menjadi dua kelompok, “white hats,”orang yang menemukan dan mengungkap kerentanan, dan “black hat,”yang menggunakan eksploitasi ini untuk keuntungan sendiri. Sementara tindakan ketiga, “gray hats” secara etika dipertanyakan karena informasi yang mereka berikan bisa digunakan utnuk menciptakan pengawasan dan alat forensik.

@@ -1,0 +1,9 @@
+TEMPO.CO, Jakarta - Google Maps di Android kini bisa dipasangkan speedometer dengan aplikasi bernama Velociraptor Map Speed Limit untuk menampilkan kecepatan saat berkendara.
+
+Laman Phone Arena, Rabu, menyebutkan bahwa aplikasi ini akan memunculkan notifikasi pada bagian atas Google Maps untuk menunjukkan batas kecepatan di beberapa kawasan.
+
+Dalam pengaturan pada aplikasi pihak ketiga ini, pengguna dapat menyesuaikan unit pengukuran kecepatan yang digunakan serta notifikasi batas kecepatan.
+
+Aplikasi ini terbilang cukup baik mengingat Google belum memiliki aplikasi buatannya sendiri untuk mengukur kecepatan di Google Maps.
+
+Fitur ini bukan hal baru karena kebanyakan sistem GPS terintegrasi sudah memilikinya, bahkan aplikasi saingan Google Maps, Waze, sudah mengusungnya.

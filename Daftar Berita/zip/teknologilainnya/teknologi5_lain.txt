@@ -1,0 +1,11 @@
+CUPERTINO - Google sedang membangun fitur notifikasi Chrome di OS X. Hal ini berarti, notifikasi pop-up Chrome dapat berjalan di Mac.
+
+Google menyebut fitur ini masih dalam tahap percobaan dan belum sepenuhnya sempurna. Untuk menggunakannya, pengguna dapat pergi ke pilihan "about:flags" di tab address lalu pilih "enable native notifications."
+
+Insinyur Google mengingatkan pengguna bahwa fitur ini tidak selalu berjalan stabil dan terkadang mengakibatkan crash. Untuk mengatasi hal ini, Google menerima masukan dari para pengguna yang sudah mengaktifkan fitur ini.
+
+Sebelumnya, pengguna Chrome menerima notifikasi di dalam browser Chrome itu sendiri. Sayangnya pengguna Chrome tidak terlalu puas dengan sistem terdahulu.
+
+Keuntungan dari sistem terbaru ini adalah jika Chrome sedang tersembunyi maka notifikasi akan tetap terlihat. Demikian seperti dikutip dari The Verge, Kamis (7/4/2016).
+
+(kem)

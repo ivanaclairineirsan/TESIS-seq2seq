@@ -1,0 +1,43 @@
+Liputan6.com, Stockholm - Anjing selama ini dikenal sebagai sahabat manusia nan loyal. Namun relasi antar dua makhluk berjalan tak seimbang -- anjing mampu memahami kita dengan sangat baik.
+
+Buktinya, ada seekor anjing jenis  border collie bernama Chaser menunjukkan pemahaman atas kosakata yang terdiri dari 1.000 kata. Ia juga punya kemampuan untuk memahami unsur-unsur bahasa yang lebih kompleks seperti tata bahasa dan kalimat.  Sebaliknya, orang tak tahu apa makna di balik gonggongan mereka -- jika memang ada yang tersirat di sana.  
+
+Kini, para penemu di Swedia yang tergabung dalam Nordic Society for Invention and Discovery mengembangkan perangkat yang bisa menjembatani kesenjangan komunikasi manusia dengan anjing. 
+
+Perangkat itu bisa menyimpulkan apa yang dipikirkan dan dirasakan binatang dengan cara menganalisis perubahan pada otak secara terkini (real-time). Konsep yang mereka bayangkan, yang disebut No More Woof, diwujudkan dalam perangkat headset ringan yang dilengkapi sensor electroencephalogram (EEG) -- yang merekam aktivitas otak. 
+
+Ketika dikombinasikan dengan mikrokomputer berbiaya murah, Raspberry Pi, para penemu menduga perangkat yang diisi elektroda itu, yang diletakkan di kepala anjing, bisa mencocokkan berbagai sinyal ke pola pikir yang berbeda. Perangkat lunak khusus yang dikenal sebagai brain-computer interface (BCI)  akan menerjemahkan data ke frase untuk berkomunikasi. Frase yang diputar melalui pengeras suara bisa mengeluarkan apa yang ada di pikiran anjing. Dari perasaan 'aku lelah' hingga 'aku penasaran apa itu'. 
+
+Desember tahun lalu, tim pengembang meluncurkan kampanye penggalangan dana di Indiegogo.com -- untuk mengumpulkan uang dalam jumlah cukup guna melakukan penelitian lebih lanjut dalam rangka menguji kelayakan gagasan mereka. BCI kala itu baru sekadar eksperimen. 
+
+Dengan donasi US$ 65, para donatur memiliki kesempatan untuk mendapat versi beta dari gadget, yang diprogram untuk membedakan antara 2-3 pola pikir, seperti kelelahan, kelaparan, rasa ingin tahu, dan dikomunikasikan dalam bahasa Inggris. 
+
+Sementara, penyumbang lebih banyak, minimal US$ 600 akan mendapat model lebih canggih, yang bisa menerjemahkan lebih dari empat pemikiran yang berbeda dan cocok untuk sejumlah ras anjing. 
+
+"Tantangannya adalah untuk membuat perangkat yang bisa dipakaikan pada anjing-anjing berbeda dan tetap bekerja dengan tepat," kata Per Cromwell,  salah satu pencipta produk, seperti Liputan6.com kutip dari Smithsonian Magazine.  
+
+"Kalau tak sesuai, alat itu bisa saja kehilangan sinyal. Kami berjuang untuk mengatasinya dan lebih suka menggambarkan perangkat kami sebagai sebuah prototipe alih-alih produk massal. 
+
+'Kurang Ilmiah'
+
+Namun sejumlah ilmuwan meragukan cara kerja produk Nordic Society for Invention and Discovery yang diluncurkan di situs Indiegogo. Ada yang menganggapnya kurang ilmiah. 
+
+"Apa yang kulihat dalam video mustahil dilakukan," kata Bruce Lube, dosen Duke University yang punya spesialisasi stimulasi otak dan neurofisiologi kepada Popular Science. 
+
+Lube mengatakan, EEG dirancang untuk mengukur aktivitas saraf dekat daerah permukaan otak. Itu tidak akan dapat menentukan apakah hewan (atau manusia) merasa lapar atau yang lain. Sebab, perasaan yang berasal dari hipotalamus, yang terletak jauh di dalam pusat otak. 
+
+Meski perangkat EEG telah dikembangkan untuk membuat pengguna menggerakkan kaki palsu, menggerakkan mobil atau memainkan musik, kemampuan untuk mengidentifikasi emosi khusus dan pikiran melampaui lingkup bahkan teknologi yang paling canggih.
+
+Per Cromwell, mengakui, konsep mereka masih dalam level eksperimen atau eksplorasi. Ada juga disclaimer dari pengembang di situs Indiegogo yang tegas menyatakan bahwa No More Woof masih dalam pengembangan. Tak dijamin bisa bekerja. "Saat memulainya kami tak tahu apakah itu akan berhasil atau tidak, " katanya dalam e-mail. " Dan sampai batas tertentu kami masih mencoba untuk membuatnya bekerja."
+
+Proses pengujian, yang digambarkan dalam e-mail, melibatkan penggunaan kamera video dan perangkat EEG secara bersamaan untuk merekam aktivitas otak anjing dan respon fisik seperti ketika terkena berbagai rangsangan --  seperti orang yang tidak dikenal, bola, makanan, atau bau. 
+
+"Fokus kami dalam tahap awal adalah mengukur jumlah aktivitas, " jelas Cromwell. "Rasa ingin tahu dan agitasi menunjukkan peningkatan yang signifikan dalam aktivitas otak, dan kami menafsirkan ini sebagai anjing dalam  kondisi penasaran atau bertanya-tanya, ' Apa itu?' atau mengatakan 'Aku ingin main'."
+
+"Sebaliknya, ketika anjing bosan atau lelah, aktivitas otak menurun dan kami terjemahkan ini sebagai 'Tinggalkan aku sendiri' atau 'Aku ingin tidur'."
+
+Tujuan tim adalah mendapatkan interpretasi yang lebih akurat. "Yang ada saat ini adalah terjemahan kami dan bukan terjemahan yang tepat," kata dia. Juga hanya dalam bahasa Inggris. 
+
+Cromwell menambahkan, penelitian lebih lanjut mutlak harus dilakukan. Jadi kapan perangkat yang bisa membuat anjing bicara bisa terwujud? 
+
+"Kalau masyarakat menginginkannya, pasti bisa. Apalagi, jika DARPA (unit di Departemen Pertahanan AS yang bertanggung jawab soal inovasi) membiayai US$ 100 juta." (Yus Ariyanto)

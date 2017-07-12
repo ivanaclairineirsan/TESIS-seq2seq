@@ -1,0 +1,53 @@
+Liputan6.com, Houston - Dari gunung di Islandia hingga kebakaran hutan di California, Badan Antariksa Amerika Serikat (NASA) menyajikan gambaran Bumi yang lain daripada yang lain.
+
+Menggunakan instrumen Advanced Spaceborne Thermal Emission and Reflection Readiometer (Aster) milik Jepang yang ada di pesawat antariksa Terra -- yang menangkap emisi panas --  NASA menghasilkan 3 juta citra Bumi yang sungguh menakjubkan.
+
+Kabar gembiranya, foto-foto tersebut dibuka untuk umum, bisa diakses lewat internet.
+
+Seperti yang dikutip dari Daily Mail, Selasa (5/4/2016), data tersebut dideskripsikan sebagai 'multimodal version of Google Earth' atau Google Earth dalam berbagai mode, di mana orang-orang dapat melihat perubahan lingkungan yang terjadi di suatu wilayah dengan detail luar biasa.
+
+ASTER merupakan alat sensori jauh di satelit Terra yang diluncurkan 16 tahun lalu. Alat tersebut digunakan untuk membuat peta secara detail yanng merekam suhu permukaan, reflektansi, dan elevasi.
+
+Alat sensori jauh itu dapat mengambil gambar Bumi dengan resolusi tinggi dalam 14 panjang gelombang spektrum elektromagnetik yang berbeda.
+
+
+Kebakaran yang terjadi di Los Angeles, California, ditunjukkan dengan warna merah (Foto: NASA).
+Sebagai contoh, gambar erupsi gunung Momotombo di Nikaragua pada Maret 2016 diambil baik yang asli maupun dengan thermal infrared bands.
+
+Awan panas di representasikan dengan warna biru-abu-abu dan lava hasil erupsi digambarkan berwarna kuning. Sedangkan kawah di puncak gunung berapi berwarna putih serta vegetasi di sekitar area ditunjukkan dengan warna merah.
+
+
+Foto Erupsi Gunung Momotombo di Nikaragua (kiri), setelah digunakan thermal infrared bands (kanan).
+"Kami mengantisipasi kenaikan dramatis penggunaan data kami, dengan hasil baru dan menarik yang akan datang," ujar ketua tim ASTER, Michael Abrams.
+
+
+Gambar banjir di beberapa wilayah di Pakistan pada 2010 yang berhasil ditangkap oleh ASTER (Foto: NASA).
+ASTER memproses data menjadi gambar menggunakan algoritma yang dibangun di NASA dan National Institute of Advanced Industrial Science and Technology (AIST) di Jepang.
+
+
+Kondyor Massif yang terletak di timur Siberia merupakan instrusi baru (batuan beku) berbentuk bulat sempurna dengan diameter 8 km (Foto: NASA).
+Alat tersebut mengambil gambar asli dan gelombang termal inframerah dengan resolusi yang berkisar antara 50 hingga 300 kaki atau 15 sampai 90 meter.
+
+
+Gambar kiri menunjukkan penebangan hutan yang berbentuk seperti papan catur. Sedangkan gambar kanan memperlihatkan bagian barat laut Gletser Malaspina dan teluk es di Alaska, dengan warna oranye dan kuning menunjukkan vegetasi (Foto: NASA)..
+Data yang diambil ASTER meliputi 99 persen permukaan Bumi dan membentang dari 83 derajat lintang utara hingga 83 derajat lintang selatan.
+
+
+Foto yang menunjukkan fenomena kekeringan di Korea Utara (kanan). Foto sebelah kiri diambil pada 2002 di mana terlihat masih banyak vegetasi (berwarna merah) (Foto: NASA).
+Setelah menggunakan teleskop berbeda untuk menciptakan gambar stereo pair -- mengandung dua sudut pandang dari sisi berdampingan, di mana satu pandangan dimaksudkan untuk mata kiri dan lainnya mata kanan -- saat ini sedang menciptakan gambar dengan efek 3D agar kedalaman permukaan dapat lebih terlihat.
+
+
+Bukit pasir linear di Rub' al Khali di Arab Saudi. Warna kuning menunjukkan kandungan mineral besi oksida dan bagian berwarna biru disebabkan refletansi tinggi (Foto: NASA).
+Peta topografi Bumi ini yang dapat diakses secara gratis. Sedangkan gambar lain yang dihasilkan dari probe--robot yang keluar dari orbit Bumi dan menjelajah angkasa luar-- dikenakan biaya.
+
+
+Angin pesisir membentuk bukit pasir tertinggi di dunia di Namib-Naukluft National Park, Namibia (Foto: NASA).
+Bagi para ilmuwan, gambar yang dihasilkan ASTER dapat menyediakan informasi penting untuk pemetaan dan pengamatan permukaan tentang bagaimana Bumi berubah dari waktu ke waktu.
+
+
+Pabrik sulfur di Irak pada 2003. Awan berbahaya yang mengandung sulfur berwarna ungu di gambar tersebut. (Foto: NASA).
+Contohnya, ilmuwan telah menggunakan gambar tersebut untuk mengetahui proses terbentuknya gletser. Tak hanya itu, informasi dari ASTER juga dapat digunakan untuk memantau gunung berapi aktif dan mengidentifikasi penggundulan hutan.
+
+
+Kebakaran pada tahun 2003 di dekat Cajon Pass, Pegunungan San Benardino. Asap hasil kebakaran ditunjukkan dengan warna biru. (Foto: NASA/Eric Rosenwald/Demotix/Corbis).
+Selain itu, masyarakat juga dapat menggunakannya untuk melihat polusi maupun pertumbuhan di suatu daerah. Bagi Anda yang tertarik untuk mempelajari gambar dari ASTER, dapat mengaksesnya di sini.
